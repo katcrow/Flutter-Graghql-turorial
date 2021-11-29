@@ -1,4 +1,4 @@
-# graghql_flutter
+# graphql_app
 
 A new Flutter project.
 

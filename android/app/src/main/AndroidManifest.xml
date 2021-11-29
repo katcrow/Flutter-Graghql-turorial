@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.graghql_flutter">
+    package="org.graphql.graphql_app">
    <application
-        android:label="graghql_flutter"
+        android:label="graphql_app"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
